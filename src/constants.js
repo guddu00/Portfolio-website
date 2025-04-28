@@ -174,8 +174,8 @@ export const SkillsInfo = [
         "A personal portfolio website showcasing my skills, projects, and experiences. Built using React.js, it features a responsive design and smooth animations to enhance user experience. it also includes a contact form for easy communication. And it is hosted on Vercel.",
       image: portfolioLogo,
       tags: ["HTML", "CSS", "JavaScript", "React JS","Tailwind CSS"],
-      github: "https://github.com/codingmastr/GitHub-Profile-Search-App-Using-React-JS",
-      webapp: "https://githubprofiledetective.netlify.app/",
+      github: "https://github.com/guddu00/Portfolio-website.git",
+      webapp: "https://portfolio-website-alpha-nine-90.vercel.app/",
     },
     {
       id: 1,
